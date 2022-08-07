@@ -1901,7 +1901,7 @@ h1 {
   display: -webkit-flex;
   display: -ms-flexbox;
   display: flex;
-  min-height: 93vh;
+  min-height: 80vh;
   padding-top: 3em;
   padding-bottom: 2em;
   background-color: #1d1d1d;
