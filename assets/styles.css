@@ -3946,10 +3946,10 @@ h1 {
     font-size: 12px;
   }
 }
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 760px) {
   .section.is--hero {
     padding-top: 1.5rem;
-    padding-bottom: 1.5rem;
+    padding-bottom: 1.6rem;
   }
   .section.padding__top-bottom {
     padding-top: 5rem;
