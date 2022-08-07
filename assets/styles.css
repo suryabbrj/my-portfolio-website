@@ -1980,7 +1980,7 @@ h1 {
 .container.is--full__width {
   position: relative;
   height: 100vh;
-  max-width: 100vw;
+  max-width: 80vw;
 }
 .container.is--project__info {
   padding-right: 3vw;
